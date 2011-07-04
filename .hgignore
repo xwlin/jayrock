@@ -5,6 +5,7 @@ bin/**
 *.user
 *.cache
 *.suo
+*.docstates
 obj/**
 _ReSharper.*
 *.orig
