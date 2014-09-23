@@ -10,3 +10,4 @@ obj/**
 _ReSharper.*
 *.orig
 dist/**
+*.rej
