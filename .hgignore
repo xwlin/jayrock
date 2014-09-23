@@ -11,3 +11,4 @@ _ReSharper.*
 *.orig
 dist/**
 *.rej
+*.[Dd]ot[Ss]ettings
